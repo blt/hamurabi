@@ -22,3 +22,16 @@ socket.
 
 As with any translation, there was some leeway taken. If I
 went too far, report it as a bug!
+
+## What I'll think is nifty.
+
+There's certainly possibility for improvement. Here's a list
+of things I'd readily accept:
+
+* Autotools build infrastructure,
+* curses interface,
+* documentation (source comments or otherwise) and
+* Debian package infrastructure.
+
+If it's not on the list, send me a patch: I'll probably like
+it!
