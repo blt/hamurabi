@@ -28,6 +28,7 @@
 
 #include <stdlib.h>
 #include <stdint.h>
+
 #include "city.h"
 
 struct _st {

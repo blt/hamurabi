@@ -28,8 +28,7 @@ went too far, report it as a bug!
 There's certainly possibility for improvement. Here's a list
 of things I'd readily accept:
 
-* Autotools build infrastructure,
-* curses interface,
+* Curses interface,
 * documentation (source comments or otherwise) and
 * Debian package infrastructure.
 
